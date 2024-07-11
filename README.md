@@ -1,6 +1,7 @@
 # cooking-up
 
-This template should help get you started developing with Vue 3 in Vite.
+Projeto de estudo sobre Vue.JS.
+Criação de uma página onde selecionamos ingredientes e buscamos por receitas.
 
 ## Recommended IDE Setup
 
